@@ -10,14 +10,14 @@
                 <p>
                 <p dir="ltr"><span><strong>PDF Customizer</strong> </span><span> is a powerful tool that allows you to create & customize beautiful PDF documents: Invoice, Order, Shipment & Credit Memo with visual drag & drop interface. No more converting complex HTML code to PDF, no time-consuming.</span></p>
                 <ul class="firebase-list">
-                    <li><a href="#create-beautiful"></a>Create Beautiful Commercial PDF Documents</li>
-                    <li><a href="#drag-drop"></a>Visual Drag & Drop PDF Builder</li>
-                    <li><a href="#live-preview"></a>Live Preview</li>
-                    <li><a href="#12-elements"></a>12 Elements Supported</li>
-                    <li><a href="#pre-built"></a>Stunning Pre-built Templates</li>
-                    <li><a href="#customize"></a>Customize Templates Freely</li>
-                    <li><a href="#multiple-store"></a>Support Multiple Stores & Languages</li>
-                    <li><a href="#others"></a>Other Stunning Features</li>
+                    <li><a href="#create-beautiful">Create Beautiful Commercial PDF Documents</a></li>
+                    <li><a href="#drag-drop">Visual Drag & Drop PDF Builder</a></li>
+                    <li><a href="#live-preview">Live Preview</a></li>
+                    <li><a href="#12-elements">12 Elements Supported</a></li>
+                    <li><a href="#pre-built">Stunning Pre-built Templates</a></li>
+                    <li><a href="#customize">Customize Templates Freely</a></li>
+                    <li><a href="#multiple-store">Support Multiple Stores & Languages</a></li>
+                    <li><a href="#others">Other Stunning Features</a></li>
                 </ul>
             </div>
         </div>
