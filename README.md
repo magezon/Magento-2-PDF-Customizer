@@ -181,6 +181,129 @@
                 <p>More amazing features that make Magento 2 PDF Customizer Out-of-the-box!</p>
             </td>
         </tr>
+        <tr>
+            <td colspan="4" width="33%" valign="top">
+                <div>
+                    <div class="mgz-element v5ttve0f0y90 mgz-element-column mgz-col-md-4" align="center">
+                        <img src="https://www.magezon.com/pub/media/pdf_customizer/attach2.png" alt="Magento 2 PDF Customizer | Attach" width="100">
+                    </div>
+                    <div class="mgz-element s0197idx1rpj mgz-element-heading" align="center">
+                        <h3 class="mgz-element-heading">Attach PDF to Emails</h3>
+                    </div>
+                    <div class="mgz-element sc2rpgkrso0x mgz-element-text">
+                        <p>Automatically attach PDF documents can to the related email with simple setting.</p> 
+                    </div>
+                </div>
+            </td>
+            <td colspan="4" width="33%" valign="top">
+                <div>
+                    <div class="mgz-element v5ttve0f0y90 mgz-element-column mgz-col-md-4" align="center">
+                        <img src="https://www.magezon.com/pub/media/pdf_customizer/print-mass.png" alt="Magento 2 PDF Customizer | Print in mass" width="100">
+                    </div>
+                    <div class="mgz-element s0197idx1rpj mgz-element-heading" align="center">
+                        <h3 class="mgz-element-heading">Print PDF in Mass</h3>
+                    </div>
+                    <div class="mgz-element sc2rpgkrso0x mgz-element-text">
+                        <p>Admin & Customers can easily print all the PDF documents at one click.</p> 
+                    </div>
+                </div>
+            </td>
+            <td colspan="4" width="33%" valign="top">
+                <div>
+                    <div class="mgz-element v5ttve0f0y90 mgz-element-column mgz-col-md-4" align="center">
+                        <img src="https://www.magezon.com/pub/media/pdf_customizer/import-export.png" alt="Magento 2 PDF Customizer | Import/Export" width="100">
+                    </div>
+                    <div class="mgz-element s0197idx1rpj mgz-element-heading" align="center">
+                        <h3 class="mgz-element-heading">Import/Export Function</h3>
+                    </div>
+                    <div class="mgz-element sc2rpgkrso0x mgz-element-text">
+                        <p>Transfer PDF designs from development to store & vise versa, using shortcode.</p> 
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" width="33%" valign="top">
+                <div>
+                    <div class="mgz-element v5ttve0f0y90 mgz-element-column mgz-col-md-4" align="center">
+                        <img src="https://www.magezon.com/pub/media/pdf_customizer/orientation.png" alt="Magento 2 PDF Customizer | Orientation" width="100">
+                    </div>
+                    <div class="mgz-element s0197idx1rpj mgz-element-heading" align="center">
+                        <h3 class="mgz-element-heading">PDF Orientation</h3>
+                    </div>
+                    <div class="mgz-element sc2rpgkrso0x mgz-element-text">
+                        <p>Set up and print your billing documents horizontally & vertically.</p> 
+                    </div>
+                </div>
+            </td>
+            <td colspan="4" width="33%" valign="top">
+                <div>
+                    <div class="mgz-element v5ttve0f0y90 mgz-element-column mgz-col-md-4" align="center">
+                        <img src="https://www.magezon.com/pub/media/pdf_customizer/page-size.png" alt="Magento 2 PDF Customizer | Paper Size" width="100">
+                    </div>
+                    <div class="mgz-element s0197idx1rpj mgz-element-heading" align="center">
+                        <h3 class="mgz-element-heading">Page Size: A4, A5, Letter </h3>
+                    </div>
+                    <div class="mgz-element sc2rpgkrso0x mgz-element-text">
+                        <p>Easily set paper size in configuration, support 3 common sizes.</p> 
+                    </div>
+                </div>
+            </td>
+            <td colspan="4" width="33%" valign="top">
+                <div>
+                    <div class="mgz-element v5ttve0f0y90 mgz-element-column mgz-col-md-4" align="center">
+                        <img src="https://www.magezon.com/pub/media/pdf_customizer/page-number.png" alt="Magento 2 PDF Customizer | Page Number" width="100">
+                    </div>
+                    <div class="mgz-element s0197idx1rpj mgz-element-heading" align="center">
+                        <h3 class="mgz-element-heading">Show Page Number </h3>
+                    </div>
+                    <div class="mgz-element sc2rpgkrso0x mgz-element-text">
+                        <p>Display page number in PDF documents just by a simple switching button.</p> 
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" width="33%" valign="top">
+                <div>
+                    <div class="mgz-element v5ttve0f0y90 mgz-element-column mgz-col-md-4" align="center">
+                        <img src="https://www.magezon.com/pub/media/pdf_customizer/customize.png" alt="Magento 2 PDF Customizer | Custom Margin" width="100">
+                    </div>
+                    <div class="mgz-element s0197idx1rpj mgz-element-heading" align="center">
+                        <h3 class="mgz-element-heading">Customize Margin Setting</h3>
+                    </div>
+                    <div class="mgz-element sc2rpgkrso0x mgz-element-text">
+                        <p>Customize your PDF margins easily just by entering exact numbers rationally.</p> 
+                    </div>
+                </div>
+            </td>
+            <td colspan="4" width="33%" valign="top">
+                <div>
+                    <div class="mgz-element v5ttve0f0y90 mgz-element-column mgz-col-md-4" align="center">
+                        <img src="https://www.magezon.com/pub/media/pdf_customizer/variable.png" alt="Magento 2 PDF Customizer | Magento Variables" width="100">
+                    </div>
+                    <div class="mgz-element s0197idx1rpj mgz-element-heading" align="center">
+                        <h3 class="mgz-element-heading">Dynamic Magento Variable</h3>
+                    </div>
+                    <div class="mgz-element sc2rpgkrso0x mgz-element-text">
+                        <p>All the Magento variables are supported. Simply select from the list.</p> 
+                    </div>
+                </div>
+            </td>
+            <td colspan="4" width="33%" valign="top">
+                <div>
+                    <div class="mgz-element v5ttve0f0y90 mgz-element-column mgz-col-md-4" align="center">
+                        <img src="https://www.magezon.com/pub/media/pdf_customizer/create-unlimited.png" alt="Magento 2 PDF Customizer | Create Unlimited Templates" width="100">
+                    </div>
+                    <div class="mgz-element s0197idx1rpj mgz-element-heading" align="center">
+                        <h3 class="mgz-element-heading">Create Unlimited Templates</h3>
+                    </div>
+                    <div class="mgz-element sc2rpgkrso0x mgz-element-text">
+                        <p>Unleash your creation and add as many PDF templates to the grid as you want.</p> 
+                    </div>
+                </div>
+            </td>
+        </tr>
         <tr id="amazing-aftersales">
             <td colspan="12" align="center">
                 <h3>Amazing Aftersales Support and Tutorials</h3>
