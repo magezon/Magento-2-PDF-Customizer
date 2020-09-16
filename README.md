@@ -314,13 +314,14 @@
                 <p>We guarantee that you don’t have to pay for any <b>Magezon PDF Customizer</b> update. Make a one-time payment and you will get FREE lifetime updates.</p>
             </td>
         </tr>
-    </table>
-</div>
-<br/>
-<h2>Features Full List</h2>
-<table>
+        <tr>
+            <td colspan="12">
+                <h2>Features Full List</h2>
+            </td>
+        </tr>
+    </tr>
     <tr>
-        <td width="40%">
+        <td colspan="6" width="50%">
             <h3>General Configuration</h3>
             <ul>
                 <li>Enable/Disable Extension</li>
@@ -361,7 +362,7 @@
                 <li>Customize Margin Setting</li>
             </ul>
         </td>
-        <td width="40%" valign="top">
+        <td colspan="6" width="50%" valign="top">
             <h3>12 Elements Supported</h3>
             <ul>
                 <li>Row</li>
@@ -390,6 +391,7 @@
         </td>
     </tr>
 </table>
+</div>
 <br/> <br/>
 <h2>Frequently Asked Questions</h2>
 <div>
@@ -407,11 +409,11 @@
 </div>
 <div>
     <h3><b>
-       Is it able for me to customize the extension?
-   </b></h3>
-   <p>
-     The Magezon PDF Customizer is completely open source. If you know about code and want to make your extension more specific, customise it the way you want.
- </p>
+     Is it able for me to customize the extension?
+ </b></h3>
+ <p>
+   The Magezon PDF Customizer is completely open source. If you know about code and want to make your extension more specific, customise it the way you want.
+</p>
 </div>
 <div>
     <h3><b>
@@ -454,8 +456,8 @@
         How can I get installation support?
     </h3></b>
     <p>
-       When you are buying our product, you can see the information of it in add to cart area. In the 'Additional Services' block, tick on 'Free Installation Support' before adding to cart. Just <a href="https://magezon.ticksy.com/">submit a ticket here</a> and we're ready for help within 24 hours. This service is totally free, all the thing you have to do is providing us with those below information:
-   </p>
+     When you are buying our product, you can see the information of it in add to cart area. In the 'Additional Services' block, tick on 'Free Installation Support' before adding to cart. Just <a href="https://magezon.ticksy.com/">submit a ticket here</a> and we're ready for help within 24 hours. This service is totally free, all the thing you have to do is providing us with those below information:
+ </p>
 </div>
 <div>
     <h3><b>
@@ -475,9 +477,9 @@
 </div>
 <div>
     <h3><b>
-       How can I get your support?
-   </h3></b>
-   <p>
+     How can I get your support?
+ </h3></b>
+ <p>
     If you have any questions or need any support, feel free to contact us through these ways below. We will get back to you within 24 hours since you submit your support request.
 </p>
 <li>Submit <a href="https://www.magezon.com/contact">contact form</a>.</li>
@@ -492,25 +494,25 @@
 <h2>Payment FAQs</h2>
 <div>
     <h3><b>
-       How can I pay for your products?
-   </h3></b>
-   <p>
+     How can I pay for your products?
+ </h3></b>
+ <p>
     Currently, we only support product payment via Paypal. However, we will consider other payment methods and notify you of this.
 </p>
 </div>
 <div>
     <h3><b>
-       Can I get a refund after purchasing your product?
-   </h3></b>
-   <p>
+     Can I get a refund after purchasing your product?
+ </h3></b>
+ <p>
     If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out Contact Us, emailing us at support@magezon.com, submitting a ticket, or contacting us via Skype or live chat.
 </p>
 </div>
 <div>
     <h3><b>
-       Is your product purchased with one-time payment?
-   </h3></b>
-   <p>
+     Is your product purchased with one-time payment?
+ </h3></b>
+ <p>
     Yes, you just need to pay one time to get our product without monthly service or update cost or something like that.
 </p>
 </div>
@@ -518,9 +520,9 @@
     <br><br>
     <h2>License FAQs</h2>
     <h3><b>
-       What is the license policy in Magezon
-   </h3></b>
-   <p>
+     What is the license policy in Magezon
+ </h3></b>
+ <p>
     According to our license policy, you are allowed to use a single extension license on only one Magento installation.
 </p>
 <p>
@@ -530,18 +532,18 @@ If you want to use our extension on another Magento installation, you have to pu
 <br><br>
 <h2>Magezon Extensions</h2>
 <div>
- <ul class="firebase-list">
-     <li><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magento 2 Page Builder</a></li>
-     <li><a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Magento 2 Single Product Page Builder</a></li>
-     <li><a href="https://www.magezon.com/magento-2-form-builder.html">Magento 2 Form Builder</a></li>
-     <li><a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a></li>
-     <li><a href="https://www.magezon.com/magento-2-shop-by-brand.html">Magento 2 Shop By Brand</a></li>
-     <li><a href="https://www.magezon.com/product-labels.html">Magento 2 Product Labels</a></li>
-     <li><a href="https://www.magezon.com/magento-2-quick-order.html">Magento 2 Quick Order</a></li>
-     <li><a href="https://www.magezon.com/magento-2-ajax-cart-pro.html">Magento 2 Ajax Cart</a></li>
-     <li><a href="https://www.magezon.com/magento-2-lazy-load.html/">Magento 2 Lazy Load</a></li>
-     <li><a href="https://www.magezon.com/magento-2-tabs-pro.html/">Magento 2 Tabs</a></li>
-     <li><a href="https://www.magezon.com/magento-2-customer-attachments.html">Magento 2 Customer Attachments</a></li>
-     <li><a href="https://www.magezon.com/configurable-product-matrix.html">Magento 2 Configurable Product Matrix</a></li>
-     <li><a href="https://www.magezon.com/magento-2-popup-builder.html">Magento 2 Popup Builder</a></li>
- </ul>
+   <ul class="firebase-list">
+       <li><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magento 2 Page Builder</a></li>
+       <li><a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Magento 2 Single Product Page Builder</a></li>
+       <li><a href="https://www.magezon.com/magento-2-form-builder.html">Magento 2 Form Builder</a></li>
+       <li><a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a></li>
+       <li><a href="https://www.magezon.com/magento-2-shop-by-brand.html">Magento 2 Shop By Brand</a></li>
+       <li><a href="https://www.magezon.com/product-labels.html">Magento 2 Product Labels</a></li>
+       <li><a href="https://www.magezon.com/magento-2-quick-order.html">Magento 2 Quick Order</a></li>
+       <li><a href="https://www.magezon.com/magento-2-ajax-cart-pro.html">Magento 2 Ajax Cart</a></li>
+       <li><a href="https://www.magezon.com/magento-2-lazy-load.html/">Magento 2 Lazy Load</a></li>
+       <li><a href="https://www.magezon.com/magento-2-tabs-pro.html/">Magento 2 Tabs</a></li>
+       <li><a href="https://www.magezon.com/magento-2-customer-attachments.html">Magento 2 Customer Attachments</a></li>
+       <li><a href="https://www.magezon.com/configurable-product-matrix.html">Magento 2 Configurable Product Matrix</a></li>
+       <li><a href="https://www.magezon.com/magento-2-popup-builder.html">Magento 2 Popup Builder</a></li>
+   </ul>
