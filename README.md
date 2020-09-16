@@ -40,6 +40,7 @@
 <div>
     <h2>Feature Highlights</h2>
     <table>
+        <tr></tr>
         <tr id="create-beautiful" align="center">
             <td colspan="6" width="50%">
                 <div class="col-md-6">
@@ -88,7 +89,6 @@
                 <p>Build rich content PDF documents with 12 elements supported. 6 specific elements for PDF Customizer including Field, Items, Totals, Bar Code, QR Code, Link. Place elements anywhere in the PDF within a blink of an eye!</p>
             </td>
         </tr>
-        <tr></tr>
         <tr>
             <td colspan="3" width="25%" align="center">
                 <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/pdf_customizer/1.row.png" alt="Magento 2 PDF Customizer | Row" width="80" height="80" title="">
