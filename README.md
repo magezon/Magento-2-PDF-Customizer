@@ -89,7 +89,6 @@
             </td>
         </tr>
         <tr></tr>
-        <tr></tr>
         <tr>
             <td colspan="3" width="25%" align="center">
                 <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/pdf_customizer/1.row.png" alt="Magento 2 PDF Customizer | Row" width="80" height="80" title="">
@@ -146,8 +145,6 @@
                 <h4>Link</h4>
             </td>
         </tr>
-        <tr></tr>
-        <tr></tr>
         <tr id="pre-built">
             <td colspan="6" width="50%">
                 <p><img src="https://www.magezon.com/pub/media/pdf_customizer/Magento_2_PDF_Customizer_Pre-built_templates.png"></p>
