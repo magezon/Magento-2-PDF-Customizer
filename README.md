@@ -308,7 +308,7 @@
             </td>
             <td colspan="4" width="33%" valign="baseline">
                 <div align="center">
-                    <img src="https://www.magezon.com/pub/media/magezon-pagebuilder/free-update.png" alt="LifeTime Updates Free of Charge" height="167" width="324" data-canonical-src="https://www.magezon.com/pub/media/ninjamenus2/ninjamenus-update.png" style="max-width:100%;">
+                    <img src="https://www.magezon.com/pub/media/pdf_customizer/Magento-2-PDF-Customizer-_-Life-time-update.jpg" alt="LifeTime Updates Free of Charge" height="167" width="324" data-canonical-src="https://www.magezon.com/pub/media/ninjamenus2/ninjamenus-update.png" style="max-width:100%;">
                 </div>
                 <h4>LifeTime Updates Free of Charge</h4>
                 <p>We guarantee that you don’t have to pay for any <b>Magezon PDF Customizer</b> update. Make a one-time payment and you will get FREE lifetime updates.</p>
